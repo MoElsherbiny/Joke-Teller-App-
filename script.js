@@ -114,7 +114,7 @@ const toggleButton = () => {
 const tellMeJoke = (joke) => {
   // VoiceRSS Speech Parameters
   VoiceRSS.speech({
-    key: "c16e77f1194e48eabefa1f7cda79dc59",
+    key: "add-Your-Api-Key",
     src: joke,
     hl: "en-us",
     v: "Linda",
